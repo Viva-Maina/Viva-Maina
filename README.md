@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Viva-Maina
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning css
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on anything, really
 - 📫 How to reach me right here
 - 😄 Pronouns: ...
